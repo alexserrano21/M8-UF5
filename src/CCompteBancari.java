@@ -70,4 +70,8 @@ public class CCompteBancari {
             return false;
         }
     }
+    //metodo saludo 2
+    public String saludo2(){
+        return "hola2";
+    }
 }
