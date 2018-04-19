@@ -5,7 +5,7 @@ public class CCompteBancari {
     private float saldo;
     //atributs de la clase
     private static int seguent_compte = 1234;
-    private static float saldo_inicial = 100f; //la f es por seguridad i que el float funcione ok
+    private static float saldo_inicial = 150f; //la f es por seguridad i que el float funcione ok
     
     //GET&SET
 
